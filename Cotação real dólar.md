@@ -37,7 +37,7 @@ Mesmo com os crescentes aumentos a partir da pandemia, temos, em maioria, cotaç
 
 Temos a série temporal diária das cotações:
 
-![cotação](https://github.com/mths-andrade/dolar/assets/159069202/4b179c1c-d029-43dc-a90b-573ffc95a107)
+![cotação](https://github.com/user-attachments/assets/61a14952-1a0f-4ec3-af2b-34947adf4a47)
 
 Temos também a série temporal mensal média. Vemos que são bem parecidas, mas a segunda é mais suave, pois considera menos dados. Vou trabalhar com esses dados de agora em diante.
 
