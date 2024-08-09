@@ -31,7 +31,7 @@ Lembrando de que grande parte dos valores é aproximada, como pode ser visto na 
 
 Abaixo, a frequência das cotações.
 
-![frequência dólar](https://github.com/mths-andrade/dolar/assets/159069202/f0651a6c-0a5b-480c-8eac-1ed0e0b02f3f)
+![frequência dólar](https://github.com/user-attachments/assets/0698e1df-23f2-417f-acca-4faeb09060ee)
 
 Mesmo com os crescentes aumentos a partir da pandemia, temos, em maioria, cotações abaixo de 3 reais. Já vimos algo parecido na tabela de estatística, mas agora temos tal fato visualmente.
 
